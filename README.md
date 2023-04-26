@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### I'm a QA-engineer at Saber Interactive, which creates exciting video games for PC, PS and Xbox.
 
-* 🌍 I'm based in Minsk, Belarus
+* 🌍 I'm based in Warsaw, Poland
 * ✉️ You can contact me at [sgs01111991@gmail.com](mailto:sgs01111991@gmail.com)
 * 🧠  I'm learning Python and SQL
 
